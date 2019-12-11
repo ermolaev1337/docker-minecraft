@@ -1,0 +1,55 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-12-11 14:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-12-11 14:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2019-12-11 14:36:05 +0000",
+      "minecraft:forest": "2019-12-11 14:34:17 +0000",
+      "minecraft:beach": "2019-12-11 14:35:14 +0000",
+      "minecraft:dark_forest": "2019-12-11 14:36:29 +0000",
+      "minecraft:river": "2019-12-11 14:35:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2225
+}
