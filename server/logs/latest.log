@@ -1,40 +1,52 @@
-[13:33:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:32] [Server thread/INFO]: Starting minecraft server version 1.15
-[13:33:32] [Server thread/INFO]: Loading properties
-[13:33:32] [Server thread/INFO]: Default game type: SURVIVAL
-[13:33:32] [Server thread/INFO]: Generating keypair
-[13:33:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:33:32] [Server thread/INFO]: Using epoll channel type
-[13:33:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:33:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:33:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:33:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:33:32] [Server thread/INFO]: Preparing level "world"
-[13:33:33] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:34:36] [Server thread/INFO]: Loaded 6 recipes
-[13:34:37] [Server thread/INFO]: Loaded 825 advancements
-[13:34:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:40] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[13:34:42] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:42] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:42] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:43] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:43] [Server thread/INFO]: Preparing spawn area: 86%
-[13:34:44] [Server thread/INFO]: Time elapsed: 6218 ms
-[13:34:44] [Server thread/INFO]: Done (71.257s)! For help, type "help"
-[13:34:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@232bcb9f[id=<null>,name=ram ram,properties={},legacy=false] (/172.18.0.1:43122) lost connection: Disconnected
-[13:34:44] [Server thread/INFO]: ram ram[/172.18.0.1:43124] logged in with entity id 221 at (95.61286703792392, 63.0, -28.474443371191313)
-[13:34:45] [Server thread/INFO]: ram ram joined the game
-[13:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
-[13:34:56] [Server thread/INFO]: ram ram lost connection: Disconnected
-[13:34:56] [Server thread/INFO]: ram ram left the game
+[14:00:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:00:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:00:40] [Server thread/INFO]: Starting minecraft server version 1.15
+[14:00:40] [Server thread/INFO]: Loading properties
+[14:00:40] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:40] [Server thread/INFO]: Generating keypair
+[14:00:40] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[14:00:41] [Server thread/INFO]: Using epoll channel type
+[14:00:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:00:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:00:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:00:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:00:41] [Server thread/INFO]: Preparing level "world"
+[14:00:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:01:22] [Server thread/INFO]: Loaded 6 recipes
+[14:01:23] [Server thread/INFO]: Loaded 825 advancements
+[14:01:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:01:28] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:28] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:28] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:28] [Server thread/INFO]: Preparing spawn area: 0%
+[14:01:28] [Server thread/INFO]: Preparing spawn area: 83%
+[14:01:29] [Server thread/INFO]: Preparing spawn area: 84%
+[14:01:30] [Server thread/INFO]: Preparing spawn area: 88%
+[14:01:30] [Server thread/INFO]: Time elapsed: 7328 ms
+[14:01:30] [Server thread/INFO]: Done (49.361s)! For help, type "help"
+[14:01:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a23bc69[id=<null>,name=ram ram,properties={},legacy=false] (/95.84.246.112:51943) lost connection: Disconnected
+[14:01:40] [Server thread/INFO]: ram ram[/95.84.246.112:51952] logged in with entity id 216 at (95.61286703792392, 63.0, -28.474443371191313)
+[14:01:40] [Server thread/INFO]: ram ram joined the game
+[14:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[14:01:57] [Server thread/INFO]: ram ram lost connection: Disconnected
+[14:01:57] [Server thread/INFO]: ram ram left the game
+[14:03:14] [Server thread/INFO]: ram ram[/95.84.246.112:51967] logged in with entity id 246 at (95.71106410945751, 66.0, -28.30000001192093)
+[14:03:14] [Server thread/INFO]: ram ram joined the game
+[14:05:04] [Server thread/INFO]: ram ram has made the advancement [Monster Hunter]
+[14:05:20] [Server thread/WARN]: ram ram moved too quickly! -0.5774309601010259,-0.02442408821369213,10.239868218919487
+[14:05:30] [Server thread/WARN]: ram ram moved too quickly! -10.1617568581051,0.0,0.5166870937938945
+[14:06:12] [Server thread/WARN]: ram ram moved too quickly! 6.61119665911734,0.5449029156521092,7.488638256138415
+[14:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[14:08:40] [Server thread/INFO]: ram ram lost connection: Disconnected
+[14:08:40] [Server thread/INFO]: ram ram left the game
