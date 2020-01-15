@@ -1,44 +1,58 @@
-[14:32:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:32:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:32:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:32:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:32:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:32:51] [Server thread/INFO]: Starting minecraft server version 1.15
-[14:32:51] [Server thread/INFO]: Loading properties
-[14:32:51] [Server thread/INFO]: Default game type: SURVIVAL
-[14:32:51] [Server thread/INFO]: Generating keypair
-[14:32:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:32:52] [Server thread/INFO]: Using epoll channel type
-[14:32:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:32:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:32:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:32:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:32:52] [Server thread/INFO]: Preparing level "1488"
-[14:32:52] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:34:01] [Server thread/INFO]: Loaded 6 recipes
-[14:34:02] [Server thread/INFO]: Loaded 825 advancements
-[14:34:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:07] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:34:09] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:09] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:09] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:09] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:09] [Server thread/INFO]: Preparing spawn area: 86%
-[14:34:10] [Server thread/INFO]: Time elapsed: 6986 ms
-[14:34:10] [Server thread/INFO]: Done (77.595s)! For help, type "help"
-[14:34:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@59bee14c[id=<null>,name=ram ram,properties={},legacy=false] (/172.18.0.1:43138) lost connection: Timed out
-[14:34:16] [Server thread/INFO]: ram ram[/172.18.0.1:43140] logged in with entity id 107 at (134.5, 69.0, -56.5)
-[14:34:16] [Server thread/INFO]: ram ram joined the game
-[14:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
-[14:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11950ms or 239 ticks behind
-[14:36:46] [Server thread/INFO]: ram ram has made the advancement [Sweet Dreams]
-[14:36:54] [Server thread/INFO]: ram ram lost connection: Disconnected
-[14:36:54] [Server thread/INFO]: ram ram left the game
+[21:07:12] [Server thread/INFO]: ram ram[/2.60.218.109:51940] logged in with entity id 545415 at (71.26821879516682, 50.0, 106.03896881125438)
+[21:07:12] [Server thread/INFO]: ram ram joined the game
+[21:08:08] [Server thread/INFO]: ram ram drowned
+[21:08:15] [Server thread/INFO]: ram ram lost connection: Disconnected
+[21:08:15] [Server thread/INFO]: ram ram left the game
+[21:10:39] [Server thread/INFO]: /176.108.160.134:51485 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received encoded string buffer length is longer than maximum allowed (2011 > 64)
+[21:10:41] [Server thread/INFO]: ram ram[/2.60.218.109:51963] logged in with entity id 545550 at (33.5, 69.0000002, 87.5)
+[21:10:41] [Server thread/INFO]: ram ram joined the game
+[21:12:10] [Server thread/INFO]: /176.108.160.134:53375 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received encoded string buffer length is longer than maximum allowed (2011 > 64)
+[21:12:13] [Server thread/INFO]: /176.108.160.134:51726 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received encoded string buffer length is longer than maximum allowed (2011 > 64)
+[21:12:15] [Server thread/INFO]: /176.108.160.134:53314 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received encoded string buffer length is longer than maximum allowed (2011 > 64)
+[21:12:17] [Server thread/INFO]: /176.108.160.134:63335 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received encoded string buffer length is longer than maximum allowed (2011 > 64)
+[21:16:04] [Server thread/INFO]: Lera[/176.108.160.134:57185] logged in with entity id 546465 at (145.5, 72.0, -45.5)
+[21:16:04] [Server thread/INFO]: Lera joined the game
+[21:17:26] [Server thread/INFO]: Lera was slain by ram ram
+[21:18:21] [Server thread/INFO]: <Lera> ww
+[21:22:23] [Server thread/INFO]: <Lera> ttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+[21:23:41] [Server thread/WARN]: Lera moved wrongly!
+[21:23:49] [Server thread/INFO]: <Lera> ttttttttttttttttttttttttttttttttttttttttttt
+[21:26:00] [Server thread/INFO]: Lera has made the advancement [Suit Up]
+[21:30:07] [Server thread/INFO]: Lera has made the advancement [Sweet Dreams]
+[21:30:21] [Server thread/INFO]: Lera has made the advancement [Isn't It Iron Pick]
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:37:59] [Server thread/WARN]: Horse moved wrongly!
+[21:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -0.625978345806061,0.0,-10.224929572755173
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -0.7739675581881613,0.0,-10.585971769052549
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -0.9280564803715663,0.0,-10.945016144426859
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.087853793419498,0.0,-11.302127536102262
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.2529837236226626,0.0,-11.657377205709736
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.423084733845286,0.0,-12.010842595452687
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.5978179849252285,0.0,-12.362600831540817
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.7768619664345522,0.0,-12.712731031942667
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -1.9599108923282245,0.0,-13.061314312099853
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -2.146676440288502,0.0,-13.408431659205235
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -2.336889292920489,0.0,-13.754161948271872
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -2.530297287550809,0.0,-14.098582242758084
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -2.7266605733738345,0.0,-14.441770199721532
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -2.9257599747497807,0.0,-14.783797662564098
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -3.127388592556798,0.0,-15.124735567459993
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -3.331350617517046,0.0,-15.46465410113376
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -3.5374665858705043,0.0,-15.803618491721295
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -3.7455685913645596,0.0,-16.141691687649086
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -3.955502309038309,0.0,-16.478932447288457
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -4.16712565013151,0.0,-16.8153957691369
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! -4.380304385006042,0.0,-17.1511354582766
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! 4.9809965974010595,0.0,8.958822343957536
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! 4.9809965974010595,0.0,8.958822343957536
+[21:39:14] [Server thread/WARN]: Boat (vehicle of Lera) moved too quickly! 4.9809965974010595,0.0,8.958822343957536
+[21:41:20] [Server thread/INFO]: ram ram lost connection: Disconnected
+[21:41:20] [Server thread/INFO]: ram ram left the game
+[21:41:33] [Server thread/INFO]: Lera lost connection: Disconnected
+[21:41:33] [Server thread/INFO]: Lera left the game
