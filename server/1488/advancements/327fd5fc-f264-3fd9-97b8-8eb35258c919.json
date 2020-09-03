@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-08-27 15:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-08-27 15:02:15 +0000",
+      "minecraft:wooded_hills": "2020-08-27 15:03:33 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}
