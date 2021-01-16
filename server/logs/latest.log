@@ -1,12 +1,44 @@
-[21:16:04] [Server thread/INFO]: Stopping server
-[21:16:04] [Server thread/INFO]: Saving players
-[21:16:04] [Server thread/INFO]: Saving worlds
-[21:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:overworld
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
-[21:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_nether
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_end
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:01:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:01:21] [main/INFO]: Reloading ResourceManager: Default
+[07:01:22] [Worker-Main-8/INFO]: Loaded 7 recipes
+[07:01:22] [Worker-Main-8/INFO]: Loaded 927 advancements
+[07:01:23] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[07:01:23] [Server thread/INFO]: Loading properties
+[07:01:23] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:23] [Server thread/INFO]: Generating keypair
+[07:01:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:01:23] [Server thread/INFO]: Using epoll channel type
+[07:01:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:01:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:01:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:01:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:01:24] [Server thread/INFO]: Preparing level "1488"
+[07:01:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:25] [Server thread/INFO]: Preparing spawn area: 42%
+[07:01:25] [Server thread/INFO]: Time elapsed: 1771 ms
+[07:01:25] [Server thread/INFO]: Done (1.883s)! For help, type "help"
+[07:01:30] [Server thread/INFO]: ram_ram[/25.142.15.2:53205] logged in with entity id 250 at (23.30000001192093, 64.0, 82.88008814943927)
+[07:01:30] [Server thread/INFO]: ram_ram joined the game
+[07:01:36] [Server thread/INFO]: ram_ram lost connection: Disconnected
+[07:01:36] [Server thread/INFO]: ram_ram left the game
+[07:01:42] [Server thread/INFO]: Stopping the server
+[07:01:42] [Server thread/INFO]: Stopping server
+[07:01:42] [Server thread/INFO]: Saving players
+[07:01:42] [Server thread/INFO]: Saving worlds
+[07:01:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:overworld
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
+[07:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_nether
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_end
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

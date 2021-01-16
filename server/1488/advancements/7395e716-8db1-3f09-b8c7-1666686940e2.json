@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-10-06 20:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-04-22 19:23:14 +0000"
@@ -308,6 +314,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-22 19:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-10-07 20:48:12 +0000"
     },
     "done": true
   },
@@ -885,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-10-07 20:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-08-24 00:42:10 +0000"
@@ -918,6 +936,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-25 15:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-10-07 20:48:12 +0000"
     },
     "done": true
   },
@@ -1357,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-10-07 20:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-04-22 19:32:07 +0000"
@@ -1591,6 +1621,7 @@
       "cooked_mutton": "2020-04-25 17:18:58 +0000",
       "cooked_beef": "2020-04-25 16:22:22 +0000",
       "baked_potato": "2020-04-24 23:19:51 +0000",
+      "apple": "2020-10-03 17:10:16 +0000",
       "potato": "2020-04-25 15:31:11 +0000",
       "cooked_cod": "2020-04-24 23:53:47 +0000",
       "poisonous_potato": "2020-04-25 13:26:24 +0000",
@@ -2618,6 +2649,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-08-24 15:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-10-06 20:13:51 +0000"
     },
     "done": true
   },
