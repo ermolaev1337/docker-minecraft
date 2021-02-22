@@ -1,44 +1,159 @@
-[07:01:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:01:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:01:21] [main/INFO]: Reloading ResourceManager: Default
-[07:01:22] [Worker-Main-8/INFO]: Loaded 7 recipes
-[07:01:22] [Worker-Main-8/INFO]: Loaded 927 advancements
-[07:01:23] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[07:01:23] [Server thread/INFO]: Loading properties
-[07:01:23] [Server thread/INFO]: Default game type: SURVIVAL
-[07:01:23] [Server thread/INFO]: Generating keypair
-[07:01:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:01:23] [Server thread/INFO]: Using epoll channel type
-[07:01:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:01:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:01:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:01:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:01:24] [Server thread/INFO]: Preparing level "1488"
-[07:01:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
-[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
-[07:01:25] [Server thread/INFO]: Preparing spawn area: 0%
-[07:01:25] [Server thread/INFO]: Preparing spawn area: 42%
-[07:01:25] [Server thread/INFO]: Time elapsed: 1771 ms
-[07:01:25] [Server thread/INFO]: Done (1.883s)! For help, type "help"
-[07:01:30] [Server thread/INFO]: ram_ram[/25.142.15.2:53205] logged in with entity id 250 at (23.30000001192093, 64.0, 82.88008814943927)
-[07:01:30] [Server thread/INFO]: ram_ram joined the game
-[07:01:36] [Server thread/INFO]: ram_ram lost connection: Disconnected
-[07:01:36] [Server thread/INFO]: ram_ram left the game
-[07:01:42] [Server thread/INFO]: Stopping the server
-[07:01:42] [Server thread/INFO]: Stopping server
-[07:01:42] [Server thread/INFO]: Saving players
-[07:01:42] [Server thread/INFO]: Saving worlds
-[07:01:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:overworld
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
-[07:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_nether
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_end
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:01:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:07:43] [Server thread/INFO]: chemes[/193.34.232.19:37603] logged in with entity id 51700 at (-962.5, 65.0, 709.5)
+[07:07:43] [Server thread/INFO]: chemes joined the game
+[07:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[07:14:30] [Server thread/WARN]: Boat (vehicle of chemes) moved wrongly! 0.5393434890025333
+[07:19:00] [Server thread/INFO]: chemes lost connection: Disconnected
+[07:19:00] [Server thread/INFO]: chemes left the game
+[07:20:45] [Server thread/INFO]: chemes[/193.34.232.19:33779] logged in with entity id 54462 at (-956.0961264363599, 58.0, 791.216232589673)
+[07:20:45] [Server thread/INFO]: chemes joined the game
+[07:24:55] [Server thread/INFO]: chemes lost connection: Disconnected
+[07:24:55] [Server thread/INFO]: chemes left the game
+[07:25:40] [Server thread/INFO]: OBXmaster[/176.98.176.143:60466] logged in with entity id 55117 at (151.5, 72.0, -56.5)
+[07:25:40] [Server thread/INFO]: OBXmaster joined the game
+[07:25:46] [Server thread/INFO]: chemes[/193.34.232.19:35465] logged in with entity id 55224 at (-954.3579585904522, 63.0, 716.5630252964526)
+[07:25:46] [Server thread/INFO]: chemes joined the game
+[07:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[07:27:31] [Server thread/INFO]: OBXmaster lost connection: Disconnected
+[07:27:31] [Server thread/INFO]: OBXmaster left the game
+[07:38:47] [Server thread/INFO]: OBXmaster[/176.98.176.143:65420] logged in with entity id 57618 at (140.83600441491407, 71.0, -47.44842594260928)
+[07:38:47] [Server thread/INFO]: OBXmaster joined the game
+[07:39:21] [Server thread/INFO]: <OBXmaster> -957.462 /64.00000 / 723.018
+[07:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[07:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4686ms or 93 ticks behind
+[07:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4122ms or 82 ticks behind
+[07:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[07:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[07:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3632ms or 72 ticks behind
+[07:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5244ms or 104 ticks behind
+[07:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8562ms or 171 ticks behind
+[07:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5406ms or 108 ticks behind
+[07:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8312ms or 166 ticks behind
+[07:46:00] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -5.222569644501391,0.0,-8.939581165954337
+[07:46:00] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -5.426807887185191,0.0,-9.283020221432139
+[07:46:00] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -5.631830706225969,0.0,-9.626030014895605
+[07:46:00] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -5.837608393117989,0.0,-9.968622936351949
+[07:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11693ms or 233 ticks behind
+[07:47:23] [Server thread/INFO]: <OBXmaster> -957.462 /64.00000 / 723.018
+[07:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[07:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[07:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[07:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[07:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[07:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[07:50:54] [Server thread/INFO]: OBXmaster lost connection: Disconnected
+[07:50:54] [Server thread/INFO]: OBXmaster left the game
+[07:58:11] [Server thread/INFO]: OBXmaster[/176.98.176.143:55061] logged in with entity id 64971 at (-955.7551986714269, 65.0, 709.4115829397257)
+[07:58:11] [Server thread/INFO]: OBXmaster joined the game
+[07:59:04] [Server thread/INFO]: OBXmaster has made the advancement [Acquire Hardware]
+[08:01:07] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:01:07] [Server thread/INFO]: chemes left the game
+[08:01:28] [Server thread/INFO]: chemes[/176.108.160.134:65176] logged in with entity id 65442 at (-964.4104380245542, 58.0, 792.305329006914)
+[08:01:28] [Server thread/INFO]: chemes joined the game
+[08:01:45] [Server thread/INFO]: OBXmaster has made the advancement [Isn't It Iron Pick]
+[08:08:21] [Server thread/INFO]: OBXmaster has made the advancement [Monster Hunter]
+[08:10:34] [Server thread/INFO]: OBXmaster lost connection: Disconnected
+[08:10:34] [Server thread/INFO]: OBXmaster left the game
+[08:10:41] [Server thread/INFO]: OBXmaster[/176.98.176.143:59848] logged in with entity id 67881 at (-716.8011580019341, 64.0, 492.99053275473113)
+[08:10:42] [Server thread/INFO]: OBXmaster joined the game
+[08:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[08:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5190ms or 103 ticks behind
+[08:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5765ms or 115 ticks behind
+[08:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -7.659262812737779,0.0,6.914862165022441
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -7.923606550446266,0.0,7.213048169800459
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -8.188181614268956,0.0,7.511230663399488
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -8.45309040828397,0.0,7.809297243576111
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -8.71841326836261,0.0,8.107156540239316
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -8.984207960704339,0.0,8.40473883355969
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -9.250517705553875,0.0,8.701988837448653
+[08:19:53] [Server thread/WARN]: Boat (vehicle of OBXmaster) moved too quickly! -9.517372708165567,0.0,8.998864336278189
+[08:21:37] [Server thread/INFO]: OBXmaster was blown up by Creeper
+[08:22:12] [Server thread/INFO]: OBXmaster was shot by Skeleton
+[08:22:39] [Server thread/INFO]: OBXmaster has made the advancement [Stone Age]
+[08:22:54] [Server thread/INFO]: OBXmaster was blown up by Creeper
+[08:23:05] [Server thread/INFO]: OBXmaster has made the advancement [Sweet Dreams]
+[08:23:11] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:23:11] [Server thread/INFO]: chemes left the game
+[08:23:14] [Server thread/INFO]: chemes[/176.108.160.134:50360] logged in with entity id 72207 at (-911.3794321209374, 66.0, 604.3102096442744)
+[08:23:14] [Server thread/INFO]: chemes joined the game
+[08:23:40] [Server thread/INFO]: OBXmaster was blown up by Creeper
+[08:27:09] [Server thread/INFO]: OBXmaster has made the advancement [Diamonds!]
+[08:34:21] [Server thread/INFO]: OBXmaster lost connection: Disconnected
+[08:34:21] [Server thread/INFO]: OBXmaster left the game
+[08:34:24] [Server thread/INFO]: OBXmaster[/176.98.176.143:62641] logged in with entity id 74920 at (-930.9820017229735, 58.35892138606149, 556.2561450655973)
+[08:34:24] [Server thread/INFO]: OBXmaster joined the game
+[08:38:23] [Server thread/INFO]: OBXmaster has made the advancement [Cover Me With Diamonds]
+[08:39:50] [Server thread/INFO]: chemes has made the advancement [Take Aim]
+[08:46:52] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:46:52] [Server thread/INFO]: chemes left the game
+[08:46:54] [Server thread/INFO]: chemes[/176.108.160.134:52264] logged in with entity id 77234 at (-902.4755946081153, 70.0, 603.4747771970968)
+[08:46:54] [Server thread/INFO]: chemes joined the game
+[08:46:57] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:46:57] [Server thread/INFO]: chemes left the game
+[08:46:59] [Server thread/INFO]: chemes[/176.108.160.134:57500] logged in with entity id 77270 at (-902.4755946081153, 70.0, 603.4747771970968)
+[08:46:59] [Server thread/INFO]: chemes joined the game
+[08:47:04] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:47:04] [Server thread/INFO]: chemes left the game
+[08:47:05] [Server thread/INFO]: chemes[/176.108.160.134:53864] logged in with entity id 77310 at (-902.4755946081153, 70.0, 603.4747771970968)
+[08:47:05] [Server thread/INFO]: chemes joined the game
+[08:48:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-772, y=72, z=706} fx{x=-772, y=70, z=705}
+[08:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08:50:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-864, y=71, z=277} fx{x=-863, y=69, z=277}
+[08:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[08:51:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-886, y=68, z=277} fx{x=-887, y=67, z=277}
+[08:51:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-912, y=67, z=254} fx{x=-914, y=66, z=253}
+[08:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[08:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5988ms or 119 ticks behind
+[08:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[08:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[08:59:19] [Server thread/INFO]: chemes lost connection: Disconnected
+[08:59:19] [Server thread/INFO]: chemes left the game
+[08:59:21] [Server thread/INFO]: chemes[/176.108.160.134:63903] logged in with entity id 81413 at (-953.6999999880791, 57.745601944530975, 788.9316742594582)
+[08:59:21] [Server thread/INFO]: chemes joined the game
+[09:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09:06:56] [Server thread/INFO]: chemes has made the advancement [Hot Stuff]
+[09:07:41] [Server thread/INFO]: chemes was shot by Skeleton
+[09:08:31] [Server thread/INFO]: OBXmaster has made the advancement [Not Today, Thank You]
+[09:11:53] [Server thread/INFO]: chemes was blown up by Creeper
+[09:13:02] [Server thread/INFO]: chemes was slain by Zombie
+[09:13:48] [Server thread/INFO]: chemes was slain by Spider
+[09:14:51] [Server thread/INFO]: chemes was shot by Skeleton
+[09:15:43] [Server thread/INFO]: chemes was blown up by Creeper
+[09:17:46] [Server thread/INFO]: chemes was blown up by Creeper
+[09:18:41] [Server thread/INFO]: chemes has made the advancement [Not Today, Thank You]
+[09:19:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09:19:48] [Server thread/INFO]: chemes was slain by Zombie
+[09:23:03] [Server thread/INFO]: OBXmaster has made the advancement [We Need to Go Deeper]
+[09:23:04] [Server thread/INFO]: OBXmaster has made the advancement [A Terrible Fortress]
+[09:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09:23:12] [Server thread/INFO]: chemes has made the advancement [We Need to Go Deeper]
+[09:23:12] [Server thread/INFO]: chemes has made the advancement [A Terrible Fortress]
+[09:23:24] [Server thread/INFO]: chemes was burnt to a crisp whilst fighting Blaze
+[09:23:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Shovel'/85112, l='ServerLevel[1488]', x=-114.55, y=63.00, z=93.35]
+[09:23:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Oak Planks'/85113, l='ServerLevel[1488]', x=-114.51, y=63.00, z=93.64]
+[09:23:59] [Server thread/WARN]: Fetching packet for removed entity bcs['String'/85110, l='ServerLevel[1488]', x=-114.72, y=63.00, z=94.99]
+[09:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[09:31:01] [Server thread/INFO]: OBXmaster has made the advancement [Take Aim]
+[09:31:04] [Server thread/INFO]: chemes was slain by OBXmaster
+[09:31:51] [Server thread/INFO]: OBXmaster has made the advancement [Hot Stuff]
+[09:34:32] [Server thread/INFO]: OBXmaster lost connection: Disconnected
+[09:34:32] [Server thread/INFO]: OBXmaster left the game
+[09:34:37] [Server thread/INFO]: chemes lost connection: Disconnected
+[09:34:37] [Server thread/INFO]: chemes left the game
+[11:47:51] [Server thread/INFO]: Stopping server
+[11:47:51] [Server thread/INFO]: Saving players
+[11:47:51] [Server thread/INFO]: Saving worlds
+[11:47:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:overworld
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
+[11:47:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_nether
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:47:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[1488]'/minecraft:the_end
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (1488): All chunks are saved
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:47:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
