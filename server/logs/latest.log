@@ -1,1 +1,130 @@
-[16:36:08] [Server thread/INFO]: Stopping server
+[17:04:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:04:21] [ServerMain/INFO]: Loaded 7 recipes
+[17:04:21] [ServerMain/INFO]: Loaded 1271 advancements
+[17:04:22] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:04:22] [Server thread/INFO]: Loading properties
+[17:04:22] [Server thread/INFO]: Default game type: SURVIVAL
+[17:04:22] [Server thread/INFO]: Generating keypair
+[17:04:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:04:22] [Server thread/INFO]: Using epoll channel type
+[17:04:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:04:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:04:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:04:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:04:22] [Server thread/INFO]: Preparing level "1488"
+[17:04:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:04:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:32] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[17:04:33] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[17:04:34] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[17:04:34] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[17:04:34] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[17:04:35] [Server thread/INFO]: Time elapsed: 10497 ms
+[17:04:35] [Server thread/INFO]: Done (13.149s)! For help, type "help"
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/blue_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/black_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/red_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/purple_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/gray_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/orange_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/lime_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/green_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/brown_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/pink_wool' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/gray_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/black_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/yellow_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/orange_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/brown_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_gray_bed_from_white_bed' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/yellow_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/black_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_gray_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/orange_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/brown_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/gray_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_carpet_from_white_carpet' in progress file ./1488/advancements/7395e716-8db1-3f09-b8c7-1666686940e2.json - it doesn't exist anymore?
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[17:04:59] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[17:04:59] [Server thread/INFO]: ram_ram[/94.103.211.82:35160] logged in with entity id 262 at (59.972160530027615, 78.0, -1109.633731394025)
+[17:04:59] [Server thread/INFO]: ram_ram joined the game
+[17:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
