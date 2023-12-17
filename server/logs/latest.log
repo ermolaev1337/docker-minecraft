@@ -1,6 +1,1 @@
-[10:11:38] [Server thread/INFO]: Espoleta[/216.131.118.24:55322] logged in with entity id 18174 at (154.5, 75.0, -38.5)
-[10:11:39] [Server thread/INFO]: Espoleta joined the game
-[10:11:39] [Server thread/INFO]: Espoleta lost connection: Disconnected
-[10:11:39] [Server thread/INFO]: Espoleta left the game
-[10:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3111ms or 62 ticks behind
-[10:11:39] [Server thread/WARN]: handleDisconnection() called twice
+[16:36:08] [Server thread/INFO]: Stopping server

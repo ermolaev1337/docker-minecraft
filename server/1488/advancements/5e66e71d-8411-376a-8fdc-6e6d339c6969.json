@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2023-02-22 22:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-02-22 22:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2023-02-22 22:48:27 +0000",
+      "minecraft:beach": "2023-02-22 22:50:01 +0000",
+      "minecraft:river": "2023-02-22 22:49:49 +0000",
+      "minecraft:forest": "2023-02-22 22:48:16 +0000",
+      "minecraft:ocean": "2023-02-22 22:48:22 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
