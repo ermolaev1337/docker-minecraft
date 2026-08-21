@@ -13,8 +13,18 @@ MANIFEST="https://launchermeta.mojang.com/mc/game/version_manifest_v2.json"
 SERVER_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/server"
 WANTED="${1:-}"
 
-command -v curl   >/dev/null || { echo "нужен curl";   exit 1; }
+command -v curl    >/dev/null || { echo "нужен curl";    exit 1; }
 command -v python3 >/dev/null || { echo "нужен python3"; exit 1; }
+
+# sha1sum есть в Linux (coreutils), shasum — в macOS
+if command -v sha1sum >/dev/null; then
+  sha1_of() { sha1sum "$1" | awk '{print $1}'; }
+elif command -v shasum >/dev/null; then
+  sha1_of() { shasum -a 1 "$1" | awk '{print $1}'; }
+else
+  echo "нужен sha1sum или shasum" >&2
+  exit 1
+fi
 
 echo "==> Читаю манифест версий Mojang"
 read -r VERSION URL SHA1 < <(
@@ -51,7 +61,7 @@ if [[ ! -f "$DEST" ]]; then
 fi
 
 echo "==> Проверяю SHA1"
-ACTUAL="$(shasum -a 1 "$DEST" | awk '{print $1}')"
+ACTUAL="$(sha1_of "$DEST")"
 if [[ "$ACTUAL" != "$SHA1" ]]; then
   rm -f "$DEST"
   echo "SHA1 не совпал: ожидался $SHA1, получен $ACTUAL" >&2
