@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Server runtime output
+server/logs/
+*.log
+*.log.gz
+server/crash-reports/
+server/*.jar.tmp
