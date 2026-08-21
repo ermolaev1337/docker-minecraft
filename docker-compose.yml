@@ -1,13 +1,17 @@
-version: "3"
 services:
   minecraft:
-    image: openjdk:latest
+    image: eclipse-temurin:25-jre
+    container_name: minecraft
     working_dir: /usr/app
     volumes:
       - ./server:/usr/app
     ports:
       - "25565:25565"
-    command: java -Xmx1024M -Xms1024M -jar server.jar nogui
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+    stop_grace_period: 60s
+    command: java -Xms2G -Xmx4G -jar server.jar nogui
 networks:
   default:
     driver: bridge
