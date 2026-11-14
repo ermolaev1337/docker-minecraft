@@ -11,3 +11,6 @@ server/logs/
 *.log.gz
 server/crash-reports/
 server/*.jar.tmp
+
+# Local server configuration can contain credentials
+server/server.properties
